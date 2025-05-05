@@ -10,7 +10,7 @@ import org.bukkit.event.server.ServerCommandEvent;
 
 public class ConsoleRconCommandHandler implements Listener {
 
-    @EventHandler(priority = EventPriority.MONITOR)
+    @EventHandler
     public void listenRCON(ServerCommandEvent event) {
         if(!SearchCommand.s1) {
             LogUtil.record("CONSOLE", "COMMAND", event.getCommand());
