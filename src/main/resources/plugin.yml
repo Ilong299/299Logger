@@ -1,0 +1,4 @@
+name: 299logger
+version: '${project.version}'
+main: dev.ilong299.logger.Plugin299Logger
+api-version: '1.13'

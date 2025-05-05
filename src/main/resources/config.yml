@@ -1,0 +1,11 @@
+# Available placeholders:
+# {YEAR}, {MONTH}, {MONTH_NAME}, {DAY}, {HOUR}, {MINUTE}, {SECOND}
+# {RANDOM_8} - 8 random characters
+# {RANDOM_16} - 16 random chars
+outputFileFormat: "log_{DAY}_{MONTH}_{YEAR}"
+
+# Available placeholders:
+# {YEAR}, {MONTH}, {MONTH_NAME}, {DAY}, {HOUR}, {MINUTE}, {SECOND}
+# {WHO} - Console, RCON, player's name
+# {WHAT} - executed command or sent message
+logFormat: "{YEAR} {MONTH} {DAY} [{HOUR}:{MINUTE}:{SECOND}] {WHO} - {WHAT}"
