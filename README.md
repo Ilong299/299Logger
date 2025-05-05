@@ -1,7 +1,7 @@
 # 📜 299Logger — Powerful Logging Plugin with Advanced Search System for Minecraft Servers
-[![Bukkit](https://img.shields.io/badge/Bukkit-compatible-blue)](https://github.com/Ilong299/299Logger)  
-[![Spigot](https://img.shields.io/badge/Spigot-supported-orange)](https://github.com/Ilong299/299Logger)  
-[![Paper](https://img.shields.io/badge/Paper-optimized-green)](https://github.com/Ilong299/299Logger)  
+[![Bukkit](https://img.shields.io/badge/Bukkit-compatible-blue)](https://www.spigotmc.org/resources/299logger.124738/)  
+[![Spigot](https://img.shields.io/badge/Spigot-supported-orange)](https://www.spigotmc.org/resources/299logger.124738/)  
+[![Paper](https://img.shields.io/badge/Paper-optimized-green)](https://www.spigotmc.org/resources/299logger.124738/)  
 [![Java](https://img.shields.io/badge/Java-8%2B-brightgreen)](https://github.com/Ilong299/299Logger)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Last Commit](https://img.shields.io/github/last-commit/Ilong299/299Logger)](https://github.com/Ilong299/299Logger/commits)
