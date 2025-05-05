@@ -8,4 +8,5 @@ outputFileFormat: "log_{DAY}_{MONTH}_{YEAR}"
 # {YEAR}, {MONTH}, {MONTH_NAME}, {DAY}, {HOUR}, {MINUTE}, {SECOND}
 # {WHO} - Console, RCON, player's name
 # {WHAT} - executed command or sent message
+# {TYPE} - COMMAND - wher console or rcon executes command , COMMAND_PREPROCESS player command preprocess, ASYNC_CHAT player chat
 logFormat: "{YEAR} {MONTH} {DAY} [{HOUR}:{MINUTE}:{SECOND}] {WHO} - {WHAT}"
