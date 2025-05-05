@@ -3,7 +3,7 @@
 [![Spigot](https://img.shields.io/badge/Spigot-supported-orange)](https://github.com/Ilong299/299Logger)  
 [![Paper](https://img.shields.io/badge/Paper-optimized-green)](https://github.com/Ilong299/299Logger)  
 [![Java](https://img.shields.io/badge/Java-8%2B-brightgreen)](https://github.com/Ilong299/299Logger)  
-[![License](https://img.shields.io/github/license/Ilong299/299Logger)](https://github.com/Ilong299/299Logger/blob/main/LICENSE)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Last Commit](https://img.shields.io/github/last-commit/Ilong299/299Logger)](https://github.com/Ilong299/299Logger/commits)
 
 ## 🔥 Overview
