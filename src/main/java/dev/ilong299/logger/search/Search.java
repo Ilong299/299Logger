@@ -32,6 +32,7 @@ public class Search {
             }
         }
         for(String logFilePath: logFiles) {
+            // FIXME: It doesn't works correctly
             send("\nSearching in: " + logFilePath + "\n");
             List<String> content = Files.asCharSource(new File(Plugin299Logger.getInstance().getDataFolder(), logFilePath), Charsets.UTF_8).readLines();
             for(String c2: content) {
@@ -46,7 +47,7 @@ public class Search {
                 } else {
                     c1 = c1.replace("COMMAND", "").replace("COMMAND_PREPROCESS", "").replaceAll("ASYNC_CHAT", "");
                 }
-                if( senders.stream().anyMatch(c1::contains) || !s11) {
+                if(senders.stream().anyMatch(c1::contains)) {
                     send(c1);
                     continue;
                 }
